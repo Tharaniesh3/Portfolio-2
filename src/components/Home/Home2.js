@@ -27,7 +27,7 @@ function Home2() {
               <br />
               <br />In addition to my technical skills, I'm also a passionate <b className="purple">guitar player , basketball player, and fitness enthusiast</b> .
               <br />
-              I have participated in <b className="purple">multiple hackathons</b>, attended <b className="purple">workshops</b>, and showcased my work at a <b className="purple">startup expo.</b> I have earned several badges and I am currently serving as the <b className="purple">Vice President</b> of the <b className="purple">AMC FOSS Club</b> in my college.               <i>
+              I have participated in <b className="purple"> hackathons</b>, attended <b className="purple">workshops</b>, and showcased my work at a <b className="purple">startup expo.</b> I have earned several badges and I am currently serving as the <b className="purple">Vice President</b> of the <b className="purple">AMC FOSS Club</b> in my college.               <i>
               </i>
               <br />
               I am always excited to take on new projects and challenges. Please feel free to contact me if you'd like to collaborate or learn more about my work.            </p>

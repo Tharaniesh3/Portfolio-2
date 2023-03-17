@@ -7,7 +7,6 @@ function Type() {
       options={{
         strings: [
           "Flutter Developer.",
-          "Machine Learning.",
           "Video & Photo Editing.",
           "Ui/Ux.",
         ],
